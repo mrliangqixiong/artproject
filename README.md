@@ -1,3 +1,5 @@
+#!/usr/bin/env python  
+# encoding: utf-8  
 # artproject
 精选美文平台
 2 项目环境
