@@ -1,0 +1,13 @@
+six
+future
+httplib2
+django-reversion
+django-formtools
+django-crispy-forms
+Pymysql
+pillow
+django-celery
+flower
+redis
+django==1.11.9
+
